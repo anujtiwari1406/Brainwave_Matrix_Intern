@@ -19,5 +19,6 @@ During the internship at Brainwave Matrix, I worked on building and enhancing we
 •	Vite — Fast development server and build tool for React projects
 
 📂 Project Structure :
+
 The repository contains individual tasks and components demonstrating various UI implementations, animations, and responsive designs developed during the internship.
 
